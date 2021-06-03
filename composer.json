@@ -1,0 +1,26 @@
+{
+    "name": "openpsa/org-openpsa-relatedto",
+    "type": "midcom-package",
+    "description": "relatedto component",
+    "keywords": ["midcom", "relatedto"],
+    "homepage": "https://openpsa2.org",
+    "license": "LGPL-2.1-or-later",
+    "authors": [
+        {
+            "name": "Andreas Flack",
+            "email": "flack@contentcontrol-berlin.de",
+            "homepage": "http://www.contentcontrol-berlin.de/"
+        }
+    ],
+    "require": {
+        "openpsa/midcom-core": "dev-main",
+        "openpsa/org-openpsa-core": "dev-main",
+        "openpsa/org-openpsa-helpers": "dev-main",
+        "openpsa/org-openpsa-widgets": "dev-main"
+    },
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap": ["lib"]
+    }
+}

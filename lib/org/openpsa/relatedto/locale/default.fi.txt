@@ -1,0 +1,36 @@
+---# MidCOM String Database
+---VERSION 2.1.0
+---LANGUAGE fi
+
+---STRING confirm relation
+Vahvista liitos
+---STRINGEND
+
+---STRING deny relation
+Poista liitos
+---STRINGEND
+
+---STRING details
+Lisätietoja
+---STRINGEND
+
+---STRING org.openpsa.relatedto
+Kohteiden välisten liitosten hallinta
+---STRINGEND
+
+---STRING incoming links
+Tähän liittyy
+---STRINGEND
+
+---STRING outgoing links
+Tämä liittyy seuraaviin
+---STRINGEND
+
+---STRING related objects
+Liittyvät kohteet
+---STRINGEND
+
+---STRING view related information
+Katso tähän liittyvää tietoa
+---STRINGEND
+
